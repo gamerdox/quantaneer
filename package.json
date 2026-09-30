@@ -1,0 +1,22 @@
+{
+  "name": "quantaneer",
+  "version": "1.0.0",
+  "description": "Quantaneer (QuantumLearn AI) - AI-Based Interactive Quantum Algorithm Learning Platform (SIH26140)",
+  "scripts": {
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && python -m uvicorn app.main:app --reload --port 8000",
+    "build": "cd frontend && npm run build",
+    "test": "cd backend && python -m pytest tests/ -v",
+    "start": "cd backend && python -m uvicorn app.main:app --port 8000"
+  },
+  "keywords": [
+    "quantum-computing",
+    "quantum-simulator",
+    "ai-tutor",
+    "sih26140",
+    "smart-india-hackathon",
+    "egreen-quanta"
+  ],
+  "author": "Egreen Quanta",
+  "license": "MIT"
+}
