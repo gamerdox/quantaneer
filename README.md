@@ -4,6 +4,7 @@
 **Organization:** Egreen Quanta  
 **Theme:** Smart Education  
 **Category:** Software  
+**Full System Report:** [DETAILED_SYSTEM_REPORT.md](file:///D:/quantaneer/DETAILED_SYSTEM_REPORT.md)  
 
 ---
 
